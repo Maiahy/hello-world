@@ -1,10 +1,11 @@
-# hello-world
-training
-**Maia**
-*is a phd student*
- 	> Le terme grenouille est un nom vernaculaire attribué à certains amphibiens, principalement dans le genre Rana. À un de ses stades de développement, la larve de la grenouille est appelée un têtard. Les grenouilles sont des quadrupèdes de l'ordre des anoures, tout comme les rainettes, qui sont en général plus vertes et arboricoles, les crapauds dont la peau est plus granuleuse et les xénopes strictement aquatiques. Tous ces termes usuels correspondent à des apparences extérieures plus qu'à des classements strictement taxinomiques.
+### hello-world
+##training
+#Maia
 
-	--- library(BiocStyle)
+ 	*Le terme grenouille est un nom vernaculaire attribué à certains amphibiens, principalement dans le genre Rana. À un de ses stades de développement, la larve de la grenouille est appelée un têtard. Les grenouilles sont des quadrupèdes de l'ordre des anoures, tout comme les rainettes, qui sont en général plus vertes et arboricoles, les crapauds dont la peau est plus granuleuse et les xénopes strictement aquatiques. Tous ces termes usuels correspondent à des apparences extérieures plus qu'à des classements strictement taxinomiques.*
+
+```
+library(BiocStyle)
 library(xcms)
 library(faahKO)
 library(pander)
@@ -15,10 +16,10 @@ library(pander)
 ##     register(bpstart(SnowParam(3)))
 ## }
 register(SerialParam())
+```
+[I'm a link tzo learn how to use markdown]([https://www.google.com](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
+ 	
 
-
- 	---
-
-   	[grenouilles]([https://www.example.com](https://fr.wikipedia.org/wiki/Grenouille)https://fr.wikipedia.org/wiki/Grenouille)
+[grenouilles]([https://www.example.com](https://fr.wikipedia.org/wiki/Grenouille)https://fr.wikipedia.org/wiki/Grenouille)
 
     

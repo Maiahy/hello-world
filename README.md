@@ -17,9 +17,10 @@ library(pander)
 ## }
 register(SerialParam())
 ```
-[I'm a link tzo learn how to use markdown]([https://www.google.com](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
+[I'm a link tzo learn how to use markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  	
 
-[grenouilles]([https://www.example.com](https://fr.wikipedia.org/wiki/Grenouille)https://fr.wikipedia.org/wiki/Grenouille)
+[grenouilles](https://fr.wikipedia.org/wiki/Grenouille)
 
     
+[link rmarkdown]

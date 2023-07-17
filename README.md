@@ -19,7 +19,7 @@ register(SerialParam())
 ```
 [I'm a link to learn how to use markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-[I'm a link to learn how to use github with R]([https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://happygitwithr.com/big-picture.html))
+[I'm a link to learn how to use github with R](https://happygitwithr.com/big-picture.html)
 
 [grenouilles](https://fr.wikipedia.org/wiki/Grenouille)
 
